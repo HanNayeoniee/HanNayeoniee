@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Machine Learning, Deep Learning and NLP.
+
+-  📫 How to reach me: nayeon2.han@gmail.com
+
  [![HanNayeoniee's github stats](https://github-readme-stats.vercel.app/api?username=HanNayeoniee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
