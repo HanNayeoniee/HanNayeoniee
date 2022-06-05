@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning and NLP at Boostcamp.
+- 🌱 I’m currently learning `Natural Language Processing` at Boostcamp.
+- ✏️ I studied `Image Processing` at Sangmyung University.
 -  📫 You can reach me by nayeon2.han@gmail.com
 
  [![HanNayeoniee's github stats](https://github-readme-stats.vercel.app/api?username=HanNayeoniee)](https://github.com/anuraghazra/github-readme-stats)
