@@ -5,10 +5,7 @@
   <img src="https://img.shields.io/github/followers/HanNayeoniee?style=social">
 </p>
 
-<br>
-
 <h3 align="center"> 🐳 About Me 🐳 </h3>
-
 
 <p align="center"> 
   <a href="mailto:nayeon2.han@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
