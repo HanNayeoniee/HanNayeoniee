@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:7C4DFF&height=170&section=header&text=HanNayeoniee&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:2FE4ED&height=170&section=header&text=HanNayeoniee&fontSize=50&fontColor=FFFFFF)
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanNayeoniee&count_bg=%23BB46E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanNayeoniee&count_bg=%23BB46E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  
   <img src="https://img.shields.io/github/followers/HanNayeoniee?style=social">
 </p>
 
-<h3 align="center"> 🧸 About Me 🧸 </h3>
+<br>
+
+<h3 align="center"> 🐳 About Me 🐳 </h3>
 
 
 <p align="center"> 
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://solved.ac/nayeoniee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nayeoniee"/></a> 
+<a href="https://solved.ac/nayeoniee"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nayeoniee"/></a>&nbsp; 
 
  <a href="[https://github.com/cow-coding/CV/blob/main/CV(kor).pdf](https://www.notion.so/AI-Engineer-4f9116eb05dc466798e3d39b8da1fc35)"><img src ="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
 -->
