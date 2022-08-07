@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <a href="mailto:nayeon2.han@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://velog.io/@ny_"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp;
+  <a href="https://log4yeoniee.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/na-yeon-han-52121820b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 </p>
 
